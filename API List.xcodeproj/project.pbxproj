@@ -11,6 +11,7 @@
 		901B0CEC29A51E3F00E083CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901B0CEB29A51E3F00E083CE /* ContentView.swift */; };
 		901B0CEE29A51E4000E083CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 901B0CED29A51E4000E083CE /* Assets.xcassets */; };
 		901B0CF129A51E4000E083CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 901B0CF029A51E4000E083CE /* Preview Assets.xcassets */; };
+		90E9E89429A6707200441501 /* EntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E9E89329A6707200441501 /* EntryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		901B0CEB29A51E3F00E083CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		901B0CED29A51E4000E083CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		901B0CF029A51E4000E083CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		90E9E89329A6707200441501 /* EntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		901B0CDD29A51E3F00E083CE = {
 			isa = PBXGroup;
 			children = (
+				90E9E89329A6707200441501 /* EntryView.swift */,
 				901B0CE829A51E3F00E083CE /* API List */,
 				901B0CE729A51E3F00E083CE /* Products */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				901B0CEC29A51E3F00E083CE /* ContentView.swift in Sources */,
 				901B0CEA29A51E3F00E083CE /* API_ListApp.swift in Sources */,
+				90E9E89429A6707200441501 /* EntryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
